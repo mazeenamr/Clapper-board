@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Clapperboard</string>
+    <string name="High_Quality">1080p</string>
+    <string name="low_Quality">720p</string>
+
+</resources>
